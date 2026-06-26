@@ -1,9 +1,7 @@
-** Student Grade Calculator**
-
+## Student Grade Calculator
 A beginner-level Python program that calculates a student's academic results from marks entered by the user.
 
-**Features**
-
+## Features
 * Accepts marks for multiple subjects
 * Validates marks between 0 and 100
 * Calculates the average mark
